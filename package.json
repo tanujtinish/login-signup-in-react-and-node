@@ -1,0 +1,26 @@
+{
+  "name": "login_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login_back.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guru99. <guru99@gmail.com> (http://Guru99.com)",
+  "license": "ISC",
+  "dependencies": {
+    "aes256": "^1.0.4",
+    "bluebird": "^3.5.3",
+    "cors": "^2.8.5",
+    "crypt": "0.0.2",
+    "crypto": "^1.0.1",
+    "cryptr": "^4.0.2",
+    "elasticsearch": "^15.3.1",
+    "get-json": "^1.0.1",
+    "mongoose": "^5.4.7",
+    "morgan": "^1.9.1",
+    "nodejs-aes256": "^1.0.1",
+    "password-hash": "^1.2.2",
+    "pg": "^7.8.0"
+  }
+}
